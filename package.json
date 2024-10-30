@@ -1,0 +1,11 @@
+{
+  "name": "rsp-woskspace",
+  "version": "1.0.0",
+  "scripts": {
+    "make": "nice -10 make",
+    "fetch": "./scripts/fetch.sh"
+  },
+  "author": "@ropsoft",
+  "license": "ISC",
+  "description": "Literally the bootstrap repository to develop @rsp OSys"
+}
