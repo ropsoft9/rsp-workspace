@@ -5,3 +5,4 @@ rsp-binaries
 rsp-filesystem
 node_modules
 package-lock.json
+nohup.txt
